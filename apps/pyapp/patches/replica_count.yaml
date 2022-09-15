@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: pyapp
 spec:
-  replicas: 5
+  replicas: 8
